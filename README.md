@@ -15,7 +15,7 @@
 - 🕹️ Fanático del desarrollo de videojuegos 2D/3D con **C++, SDL2, C#, Unity y JavaScript**.
 - 🌐 Construyendo experiencias web modernas con **Nuxt, Vue, React y Express**.
 - 📚 Siempre aprendiendo nuevas tecnologías y técnicas de programación.
-- 📫 Contacto: andrestorres@example.com
+- 📫 Contacto: andrest05143@gmail.com
 
 ---
 
@@ -30,20 +30,20 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresTorresCeja&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andert51&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresTorresCeja&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andert51&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🧩 Proyectos Destacados
 
-| Proyecto                        | Descripción                                                    | Tecnologías                                          |
-| ------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------- |
-| 🎮**APCF-MathEngine**     | Motor 2D/3D educativo para graficación matemática             | `C++`, `OpenGL`, `GLFW`, `ImGui`, `ExprTk`  |
-| 🌐**Sistema de comercio** | Plataforma web completa para control de inventario y ventas     | `Vue.js`, `Firebase`, `Express.js`, `Node.js` |
-| 🔧**CLI Tool Custom**     | Herramienta de línea de comandos para automatización en Linux | `Bash`, `Python`                                  |
+| Proyecto                           | Descripción                                                | Tecnologías                                          |
+| ---------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- |
+| 🎮**APCF-MathEngine**        | Motor 2D/3D educativo para graficación matemática         | `C++`, `OpenGL`, `GLFW`, `ImGui`, `ExprTk`  |
+| 🌐**Sistema de comercio**    | Plataforma web completa para control de inventario y ventas | `Vue.js`, `Firebase`, `Express.js`, `Node.js` |
+| 🕹️**Stardew Valley Clone** | Videojuego Clon de Stardew Valley aun en desarrollo         | `C#, Unity`                                         |
 
 ---
 
@@ -60,8 +60,8 @@
 ## 🔗 Encuéntrame también en:
 
 <p align="center">
-  <a href="https://linkedin.com/in/andrestorresceja"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:andrestorres@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9s-torres-4a352b2b5/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:andrest05143@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://andrestorres.dev"><img src="https://img.shields.io/badge/Portafolio-Web-orange?style=flat&logo=firefox-browser" /></a>
 </p>
 
