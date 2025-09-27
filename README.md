@@ -1,4 +1,4 @@
-<h1 align="center">🎮👨‍💻 ¡Hola, soy Andrés Torres! 👨‍💻🎮</h1>
+<h1 align="center">🎮👨‍💻 ¡Hola, Bienvenido! 👨‍💻🎮</h1>
 <h3 align="center">💡 Desarrollador apasionado por los videojuegos, las aplicaciones interactivas y la tecnología en general.</h3>
 
 <p align="center">
@@ -10,9 +10,9 @@
 ## 🚀 Sobre mí
 
 - 🔭 Actualmente trabajando en **APCF-MathEngine**, un motor gráfico educativo.
-- 🌱 Mejorando día a día en **OpenGL, C++ y desarrollo full-stack**.
-- 🧠 Interesado en matemáticas, gráficos computacionales, sistemas distribuidos y renderizado.
-- 🕹️ Fanático del desarrollo de videojuegos 2D/3D con **C++, SDL2, C#, Unity y JavaScript**.
+- 🌱 Actualmente mejorando día a día en **OpenGL, C++ y desarrollo full-stack**.
+- 🧠 Interesado en matemáticas, gráficos computacionales, sistemas distribuidos, renderizado e inteligencia artificial.
+- 🕹️ Fanático del desarrollo de videojuegos 2D/3D con **C++, SDL2, C#, Unity y JavaScript**, aficionado a pixelart y Blender.
 - 🌐 Construyendo experiencias web modernas con **Nuxt, Vue, React y Express**.
 - 📚 Siempre aprendiendo nuevas tecnologías y técnicas de programación.
 - 📫 Contacto: andrest05143@gmail.com
@@ -53,6 +53,7 @@
 - 🧠 Inteligencia artificial y aprendizaje automático
 - 🌐 Web apps modernas y SPA
 - 🖼️ Motores gráficos y shaders
+- 🧬 Inteligencia Artificial
 - 📦 Backend y API REST con Node.js o Go
 
 ---
