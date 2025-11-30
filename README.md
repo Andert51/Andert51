@@ -70,6 +70,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Andert51/Elevo-Online_dt-Frontend?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Andert51/Elevo-Online_dt-Frontend?style=flat-square&labelColor=343b41"/></td>
     </tr>
+	     <tr>
+      <td><a href="https://github.com/Andert51/MLP_GA-NeuroGenWine-dt"><b>NeuroGen WineRegreClass</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Andert51/MLP_GA-NeuroGenWine-dt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Andert51/MLP_GA-NeuroGenWine-dt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Andert51/MLP_GA-NeuroGenWine-dt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Andert51/MLP_GA-NeuroGenWine-dt?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
@@ -133,11 +140,11 @@
 
 ## Areas of Interest
 
-* 🎮 Game Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 🌐 Modern Web Apps (SPAs)
-* 🖼️ Graphics Engines & Shaders
-* 📦 Backend & REST API Development (Node.js, Go)
+* Game Development
+* Artificial Intelligence & Machine Learning
+* Modern Web Apps (SPAs)
+* Graphics Engines & Shaders
+* FullStack, Backend & REST API Development (Node.js, Go, Python, PHP, Typescript), Frontend Development (React, Vue)
 
 
 ---
