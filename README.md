@@ -152,7 +152,7 @@
 ## Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9s-torres-4a352b2b5/">
+  <a href="linkedin.com/in/andrés-torres-ceja-4a352b2b5">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:andrest05143@gmail.com">
