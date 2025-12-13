@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate developer with a strong interest in computer graphics, game development, modern web architecture and AI. I am constantly learning and building new things.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FFBF&center=true&width=435&lines=%F0%9F%92%BB+Desarrollador+de+Software+Creativo;%F0%9F%8E%AE+Game+Dev+y+Web+Developer;%F0%9F%A7%A0+Apasionado+por+C%2B%2B%2C+JS%2C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FFBF&center=true&width=435&lines=%F0%9F%92%BB+Software+Developer;%F0%9F%8E%AE+Game+Dev+and+Web+Developer;%F0%9F%A7%A0+Passionate+for+C%2B%2B%2C+JS%2C+Python" alt="Typing SVG" />
 </p>
 
 ---
